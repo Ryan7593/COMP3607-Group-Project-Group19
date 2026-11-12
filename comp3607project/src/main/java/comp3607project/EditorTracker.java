@@ -2,7 +2,6 @@ package comp3607project;
 
 import bluej.extensions2.BClass;
 import bluej.extensions2.BPackage;
-import bluej.extensions2.Extension;
 import bluej.extensions2.ExtensionException;
 import bluej.extensions2.editor.JavaEditor;
 
