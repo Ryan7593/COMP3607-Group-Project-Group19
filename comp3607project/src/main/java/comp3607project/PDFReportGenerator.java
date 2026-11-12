@@ -20,7 +20,6 @@ public class PDFReportGenerator {
 
     private static final float LEFT = 50;
     private static final float TOP = 750;
-    private static final float BOTTOM = 60;
 
     private static final DateTimeFormatter TIME_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
